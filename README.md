@@ -7,11 +7,14 @@
   Create a signup page where a user can register and a login page  to log in with the details provided during registration.
 
   Successful login should redirect to a profile page which contains options for user where they can update their own details..
- working flow : Register > Login > Profile 
+ 
+working flow : Register > Login > Profile 
 
  3. Application to have:
     - VS Code IDE with extensions.
+
     -XAMPP control,apache server.
+
     -web browser
 
  4.How to Use:
